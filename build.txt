@@ -1,0 +1,3 @@
+displayName = Bazinga
+author = Sheldon Cooper
+version = 0.1
