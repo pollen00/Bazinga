@@ -1,1 +1,6 @@
-Bazinga is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Changes all item and NPC sounds to Bazinga. Makes all music in the game the Big Bang Theory intro.
+
+FAQ:
+
+Q - Do I hate myself for making this?
+A - Yes!
